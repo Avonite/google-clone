@@ -1,2 +1,1 @@
-# Front-end clone of a random google-search. 
-
+# Front end clone of google homepage
